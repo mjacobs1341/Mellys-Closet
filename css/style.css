@@ -9,6 +9,7 @@ body {
     background-color: #FFFDF6;
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 
@@ -96,28 +97,34 @@ body {
 
 .brown-shape-img {
     position: absolute;
-    bottom: -20px;
-    margin: -20px;
-    padding: -20px;
+    bottom: -60px;
+    left: 0;
+    
    
 }
 
 .brown-shape-img img {
     height: auto;
     display: block;
+    margin: 0;
 }
 
 
 
 .cell-pic {
-    position: absolute ;
-    top: -20px;
+    position: absolute;
+    top: -15px;
+    right: 0;
     padding: 0;
+    margin: 0;
+   
 
 }
 
 .cell-pic img {
-    max-width: 1250px;
+    max-width: 1350px;
+    height: auto;
+    display: block;
 
 }
 
