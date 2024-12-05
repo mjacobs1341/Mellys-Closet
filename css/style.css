@@ -54,7 +54,6 @@ body {
     text-align: center;
     margin-left: -395px;  
     padding: 0;
-    border: 2px solid blue;
     position: relative;
     z-index: 10;
     
@@ -104,7 +103,6 @@ body {
     position: absolute;
     bottom: -60px;
     left: 0;
-    border: 2px solid green;
     z-index: 1;
     
    
@@ -117,16 +115,12 @@ body {
 }
 
 
-
-
-
 .cell-pic {
     position: absolute;
     top: -15px;
     right: 0;
     padding: 0;
     margin: 0;
-    border: 2px solid red;
     z-index: 1;
    
 
@@ -139,4 +133,14 @@ body {
 
 }
 
+header h1 {
+    text-align: center;
+    color: #372925;
+    font-size: 80px;
+}
 
+header p {
+    text-align: center;
+    color: #8B1A50;
+    font-size: 35px;
+}
