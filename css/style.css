@@ -9,7 +9,7 @@ body {
     background-color: #FFFDF6;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: auto;
 }
 
 
@@ -211,3 +211,11 @@ body {
     font-size: 18px;
 
 }
+
+/* Styling the product page */
+
+nav  {
+    display: flex;
+
+}
+
