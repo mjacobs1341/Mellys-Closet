@@ -271,10 +271,7 @@ header p {
     justify-content: center;
     align-items: flex-start;
     margin: 0;
-
 }
-
-
 
 .product-item {
    text-align: center;
@@ -304,7 +301,6 @@ header p {
 
 .products .product-item:nth-child(3) p {
     margin-left: 35px;
-    
 }
 
 .product-item p {
@@ -316,9 +312,6 @@ header p {
 .product-item a {
     text-decoration: none;
     font-weight: bold;
-    
-    
-
 }
 
 .products .product-item:nth-child(3) .shop-button {
@@ -343,8 +336,101 @@ header p {
     background-color: #543A31;
     cursor: pointer;
     
+}
+
+/* styling the casual weekeng page */
+
+.casual-banner {
+    background-color: #8B1A50;
+    width: 100%;
+    padding: 65px;
+    text-align: center;
+    
+}
+
+.casual-banner p {
+    font-size: 25px;
+    font-weight: bold;
+    margin: -35px;
+    text-align: center;
+    color: #FFFDF6;
+    font-style: italic;
+   
+    
+}
+
+.casual-weekend {
+    display: flex;
+    justify-content: center;
+    margin: -35px;
+    gap: 40px;
+    padding-left: 300px;
+    margin-right: 20px;
 
 }
+
+.casual-item img {
+    width: 220px;
+}
+
+.cw-girl {
+
+    position: absolute;
+    top: 150px;
+}
+
+.cw-girl img {
+    height: 575px;
+    margin-left: 20px; 
+}
+
+.casual-item {
+    text-align: center;
+}
+
+.casual-item h3 {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: black;
+    font-size: 16px;
+}
+
+.casual-item label {
+   display: inline-block;
+   font-weight: 500;
+   font-size: 14px;
+   margin-bottom: 15px;
+ 
+}
+
+.casual-item select {
+    width: 75px ;
+    margin-bottom: 15px;
+    
+}
+
+.casual-item p {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.casual-item p button {
+    color: #FFFDF6;
+    border: #8B1A50;
+    background-color: #8B1A50;
+    width: 30%;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+
+
+
+
+
+
 
 
 
