@@ -212,7 +212,7 @@ body {
 
 }
 
-/* Styling the product page */
+/* Styling  for the product page */
 
 nav {
     margin-top: -225px;
@@ -278,7 +278,7 @@ header p {
    margin: -135px;
    padding-bottom: 30px;
    
-    /*desciption*/
+   
 }
 
 .product-item img {
@@ -338,7 +338,7 @@ header p {
     
 }
 
-/* styling the casual weekeng page */
+/* styling for the casual weekeng page */
 
 .casual-banner {
     background-color: #8B1A50;
@@ -427,7 +427,7 @@ header p {
 
 
 
-/* styling date night page*/
+/* styling for date night page*/
 
 .date-night-banner {
     background-color:#8B1A50;
@@ -506,6 +506,103 @@ header p {
     border: #8B1A50;
     background-color: #8B1A50;
     width: 30%;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+/* styling for brunch vibes page*/
+
+
+.brunch-banner {
+    background-color:#8B1A50;
+    width: 100%;
+    padding: 65px;
+    text-align: center;
+}
+
+.brunch-banner p {
+    font-size: 25px;
+    font-weight: bold;
+    margin: -35px;
+    text-align: center;
+    color: #FFFDF6;
+    font-style: italic;
+}
+
+.brunch-vibes {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: -35px;
+    gap: 40px ;
+    padding-left: 300px ;
+    margin-right:10px;
+    margin-bottom: 30px;
+   
+
+}
+
+/*.brunch-vibes {
+    display: flex;
+    justify-content: center;
+    margin: -35px;
+    gap: -20px;
+    padding-left: 300px;
+    margin-right: 20px;
+}*/
+
+.brunch-vibes img {
+    width: 150px;
+}
+
+.brunch-girl {
+
+    position: absolute;
+    top: 220px;
+}
+
+.brunch-girl img {
+    height: 600px;
+    margin-left: 20px; 
+}
+
+.brunch-item {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.brunch-item h3 {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: black;
+    font-size: 16px;
+}
+
+.brunch-item label {
+    display: inline-block;
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.brunch-item select {
+    width: 75px;
+    margin-bottom: 15px;
+     
+}
+ 
+.brunch-item p {
+   font-size: 14px;
+   font-weight: bold;
+}
+ 
+.brunch-item p button {
+    color: #FFFDF6;
+    border: #8B1A50;
+    background-color: #8B1A50;
+    width: 20%;
     padding-top: 6px;
     padding-bottom: 6px;
 }
