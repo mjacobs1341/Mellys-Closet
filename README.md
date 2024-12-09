@@ -1,4 +1,4 @@
-# Mellys-Closet
+# Melly's-Closet
 
 Welcome to **Melly's Closet**, a fictional e-commerce store showcasing a modern and stylish shopping experience.  
 This project is designed to demonstrate front-end web development, quality assurance software testing, and UI/UX 
