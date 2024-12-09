@@ -46,3 +46,17 @@ Check out the live site here: [Melly's Closet](https://mjacobs1341.github.io/Mel
 
 - **Canva**: Used to create design layouts for all web pages.  
 - **Browser DevTools**: For testing and debugging the layout and functionality.
+
+---
+
+## Future Enhancements
+
+- Optimize the site for mobile/tablet devices
+- Implement a shopping cart and checkout functionality
+- Add database integration and user authentication
+- Add JavaScript for interactions
+
+---
+
+**Melly's Closet** was created by Melvina Jacobs.
+For inquiries, suggestions or collaborations, feel free to contact me at mellyjayy24@gmail.com
