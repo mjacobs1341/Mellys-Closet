@@ -2,7 +2,8 @@
 
 ## Scope 
 
-- **Verify that users can log in and sign up**
+- **Verify that users can sign up**
+- **Verify that users can log in**
 - **Test navigation links across all pages**
 - **Ensure the "Shop the Look" pages displays content correctly**
 - **Test product selection functionality (color, size and quantity)**
