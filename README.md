@@ -20,7 +20,7 @@ Check out the live site here: [Melly's Closet](https://mjacobs1341.github.io/Mel
 
 ### Quality Assurance Software Testing
 
-To ensure the functionality and usability of the site, **Quality Assurance Testing** has been carried out. You can find the detailed manual testing process and test cases in the [Manual Testing for Melly's Closet](https://github.com/mjacobs1341/Mellys-Closet/tree/main/manual-testing).
+To ensure the functionality and usability of the site, **Quality Assurance Testing** has been carried out. You can find the detailed manual testing process (Test Plan, Test Cases and Bug Report) in [Manual Testing for Melly's Closet](https://github.com/mjacobs1341/Mellys-Closet/tree/main/manual-testing).
 
 ---
 
