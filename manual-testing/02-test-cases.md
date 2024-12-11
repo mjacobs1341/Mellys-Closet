@@ -15,10 +15,10 @@
   - Passwors: "Password123"
   - Confirm Password: "Password123"
 - **Test Steps**:
-  1. **Navigate to the Sign-Up page**: [Sign-Up Page] (https://mjacobs1341.github.io/Mellys-Closet/signup.html)
+  1. **Navigate to the Sign-Up page**: [Sign-Up Page](https://mjacobs1341.github.io/Mellys-Closet/signup.html)
      - **Expected Result**: 
-       - ** The sign-up page should load successfully
-       - ** There are input fields for: First Name, Email, Password ans Confirm Password
+       - The sign-up page should load successfully
+       - There are input fields for: First Name, Email, Password ans Confirm Password
   2. **Enter the details in the sign-up form**:
      - First Name: "John"
      - Email: "johndoe@gmail.com"
@@ -27,9 +27,9 @@
      - ** Expected Results**: The sign-up form accepts the inputs
   3. **Click the submit button**
       - **Expected Result**: 
-         - ** The sign-up button is clickable and functional
-         - ** Redirects to the homepage
+         - The sign-up button is clickable and functional
+         - Redirects to the homepage
   4. **Verify redirection to the homepage**
-     - **Expected Result**: User is redirected to the homepage and login form [Homepage] (https://mjacobs1341.github.io/Mellys-Closet/index.html)
+     - **Expected Result**: User is redirected to the homepage and login form [Homepage](https://mjacobs1341.github.io/Mellys-Closet/index.html)
 - **Status**: Pass
 
