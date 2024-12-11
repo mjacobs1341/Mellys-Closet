@@ -17,7 +17,7 @@
      - **Expected Result**: 
        - The sign-up page should load successfully
        - There are input fields for: First Name, Email, Password and Confirm Password 
-       ![Sign-Up Page Input](images/signup-Page.png)
+       ![Sign-Up Page Input](../images/signup-Page.png)
   2. **Enter the details in the sign-up form**:
      - First Name: "John"
      - Email: "johndoe@gmail.com"
@@ -28,7 +28,7 @@
       - **Expected Result**: 
          - The sign-up button is clickable and functional
          - Redirects to the homepage 
-         ![Homepage](images/homepage.png)
+         ![Homepage](../images/homepage.png)
   4. **Verify redirection to the homepage**
      - **Expected Result**: User is redirected to the homepage and login form [Homepage](https://mjacobs1341.github.io/Mellys-Closet/index.html)
 - **Status**: Pass
@@ -49,12 +49,12 @@
      - **Expected Result**: 
        - The page should load successfully without errors
        - All three images are visible 
-       ![Product Images](images/product-images.png)
+       ![Product Images](../images/product-images.png)
   2. **Inspect each product**:
      - **Expected Results**: 
        - Each product image should be displayed properly with a clear and correct layout
        - Each product should include: 
-       ![Product Page](images/product-page.png)
+       ![Product Page](../images/product-page.png)
          - Image 
          - Product Name
          - Description
