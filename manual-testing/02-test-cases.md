@@ -2,6 +2,8 @@
 
 ## Functional Testing
 
+### Test Case 1
+
 
 - **Test Case ID**: TC-001
 - **Test Case Title**: Verify that users can sign up
@@ -36,7 +38,10 @@
 
 ---
 
+
 ## GUI Testing
+
+### Test Case 2
 
  
 - **Test Case ID**: TC-002
