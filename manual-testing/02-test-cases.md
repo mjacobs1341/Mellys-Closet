@@ -59,11 +59,11 @@
      - **Expected Results**: 
        - Each product image should be displayed properly with a clear and correct layout
        - Each product should include: 
-       ![Product Page](../images/product-page.png)
          - Image 
          - Product Name
          - Description
          - "Shop this look" button
+        ![Product Page](../images/product-page.png)
   3. **Check the product images**
       - **Expected Result**: 
          - Ensure that the images for each product are equal size and not stretched or distorted
