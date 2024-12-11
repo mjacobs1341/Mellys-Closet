@@ -16,6 +16,10 @@ This site is not yet optimized for mobile devices. Layout issues may appear when
 
 Check out the live site here: [Melly's Closet](https://mjacobs1341.github.io/Mellys-Closet/)
 
+### Quality Assurance Software Testing
+
+To ensure the functionality and usability of the site, **Quality Assurance Testing ** has been carried out. You can find the detailed manual testing process and test cases in the [Manual Testing Project](https://github.com/mjacobs1341/Mellys-Closet/tree/main/manual-testing).
+
 ---
 
 ## Features
