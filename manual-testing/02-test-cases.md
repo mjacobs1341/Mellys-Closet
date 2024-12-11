@@ -24,7 +24,7 @@
      - Email: "johndoe@gmail.com"
      - Passwors: "Password123"
      - Confirm Password: "Password123"
-     - ** Expected Results**: The sign-up form accepts the inputs
+      - **Expected Results**: The sign-up form accepts the inputs
   3. **Click the submit button**
       - **Expected Result**: 
          - The sign-up button is clickable and functional
