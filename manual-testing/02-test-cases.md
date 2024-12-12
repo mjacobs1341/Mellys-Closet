@@ -87,8 +87,8 @@
        - The page should load successfully without errors
   2. **Check that the "Add to Cart" button is clearly visible**
       - **Expected Result**: 
-         - The "Add to Cart" button should change color, indicating the button has been pressed
-        ![Button Change](../images/button-change.png)
+         - The "Add to Cart" button should be labeld and easy to spot
+        ![Add 2Cart](../images/add-2cart.png)
       - **Expected Results**: 
          - The "Add to Cart" button should be labeled and easy to spot
         
