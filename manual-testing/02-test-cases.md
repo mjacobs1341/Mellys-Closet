@@ -33,7 +33,7 @@
          ![Homepage](../images/homepage.png)
   4. **Verify redirection to the homepage**
      - **Expected Result**: User is redirected to the homepage and login form [Homepage](https://mjacobs1341.github.io/Mellys-Closet/index.html)
-- **Status**: Pass
+- **Status**: PASS
 
 
 ---
@@ -67,6 +67,31 @@
   3. **Check the product images**
       - **Expected Result**: 
          - Ensure that the images for each product are equal size and not stretched or distorted
-- **Status**: Pass
+- **Status**: PASS
+ 
 
+--
 
+## Usability Testing
+
+### Test Case 3
+
+- **Test Case ID**: TC-003
+- **Test Case Title**: Verify the "Add to Cart" button is user-friendly and provides visual feedback
+- **Objectives**: Ensure that the "Add to Cart" button is easy to locate, interact with and provides feedback when clicked, making it clear to the user that their action was recognized
+- **Pre-conditions**: User is on the brunch vibes page, and the "Add to cart" button is visible
+- **Test Data**: Product available to add to cart
+- **Test Steps**:
+  1. **Navigate to the [Brunch Vibes Page](https://mjacobs1341.github.io/Mellys-Closet/brunch-vibes.html)
+     - **Expected Result**: 
+       - The page should load successfully without errors
+  2. **Check that the "Add to Cart" button is clearly visible**:
+     - **Expected Results**: 
+       - The "Add to Cart" button should be easy to spot 
+       - The "Add to Cart" button is label
+        ![Add To Cart Button](../images/add-to-cart-button.png)
+  3. **Click the "Add to Cart" button**
+      - **Expected Result**: 
+         - The "Add to Cart" button should change color, indicating the button has been pressed
+        ![Button Change](../images/button-change.png)
+- **Status**: FAIL
