@@ -3,14 +3,13 @@
 ## Scope 
 
 - **Verify that users can sign up**
-- **Verify that users can log in**
 - **Test navigation links across all pages**
 - **Ensure the "Shop the Look" pages displays content correctly**
 - **Test product selection functionality (color, size and quantity)**
 - **Verify the cart symbol updates to reflect the number of items added**
 
 ---
-
+Verify
 ## Objectives
 
 - **Verify that all navigation links work as intended**
@@ -25,7 +24,7 @@
 
 - **Functional Testing**
 - **GUI Testing**
-- **Boundary Testing**
+- **Useability Testing**
 - **Cross-Browser Testing**
 - **Responsive Design Testing**
 
