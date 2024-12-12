@@ -85,7 +85,7 @@
   1. **Navigate to the [Brunch Vibes Page](https://mjacobs1341.github.io/Mellys-Closet/brunch-vibes.html)
      - **Expected Result**: 
        - The page should load successfully without errors
-  2. **Check that the "Add to Cart" button is clearly visible**:
+  2. **Check that the "Add to Cart" button is clearly visible**
       - **Expected Results**: 
          - The "Add to Cart" button should be label and easy to spot
         ![Add To Cart Button](../images/add-to-cart-button.png)
