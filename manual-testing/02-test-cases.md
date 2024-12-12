@@ -86,9 +86,8 @@
      - **Expected Result**: 
        - The page should load successfully without errors
   2. **Check that the "Add to Cart" button is clearly visible**:
-     - **Expected Results**: 
-       - The "Add to Cart" button should be easy to spot 
-       - The "Add to Cart" button is label
+      - **Expected Results**: 
+         - The "Add to Cart" button should be label and easy to spot
         ![Add To Cart Button](../images/add-to-cart-button.png)
   3. **Click the "Add to Cart" button**
       - **Expected Result**: 
