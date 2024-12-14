@@ -90,6 +90,8 @@
          - The "Add to Cart" button should be labeled and easy to spot
   3. **Click the "Add to Cart" button**
       - **Expected Result**: 
-         - The "Add to Cart" button should change color, indicating the button has been pressed
+         - The "Add to Cart" button should change color (from burgundy to gray), indicating the button has been pressed
         ![Button Change](../images/button-change.png)
 - **Status**: FAIL
+---
+You can find the detailed ***[Bug Report for TC-003 here](/Users/melvinajacobs/Documents/Mellys-Closet/manual-testing/03-bug-report.md)
