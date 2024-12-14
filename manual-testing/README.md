@@ -5,9 +5,9 @@ This project includes manual testing to ensure the functionality, usability, and
 
 ### Contents of the Maual-Testing Folder
 
-1. **Test Plan: An overview of the testing approach and objectives.
-2. **Test Cases: Individual files for each test case, organized by type (Functional, GUI, Usability).
-3. **Bug Reports: Files documenting any issues found during testing.,
+1. **Test Plan**: An overview of the testing approach and objectives.
+2. **Test Cases**: Individual files for each test case, organized by type (Functional, GUI, Usability).
+3. **Bug Reports**: Files documenting any issues found during testing.,
 
 ### Test Types
 1. **Functional Testing**: Verifies core features such as user sign-up, login, and navigation between pages.
