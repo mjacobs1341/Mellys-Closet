@@ -94,4 +94,4 @@
         ![Button Change](../images/button-change.png)
 - **Status**: FAIL
 ---
-You can find the detailed **[Bug Report for TC-003 Here]**(03-bug-report.md)
+You can find the detailed [Bug Report for TC-003 Here](03-bug-report.md)
