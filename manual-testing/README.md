@@ -1,17 +1,23 @@
 # Manual Testing for Melly's Closet
 
 ### Overview
-This project includes manual testing to ensure the functionality and usability of key features. The tests cover critical areas such as user authentication, navigation, UI elements, and cross-browser compatibility.
+This project includes manual testing to ensure the functionality, usability, and user experience of key features on the Melly's Closet website. The tests primarily focus on verifying the appearance of UI elements and the usability of interactive components.
+
+### Contents of the Maual-Testing Folder
+
+1. **Test Plan: An overview of the testing approach and objectives.
+2. **Test Cases: Individual files for each test case, organized by type (Functional, GUI, Usability).
+3. **Bug Reports: Files documenting any issues found during testing.,
 
 ### Test Types
-1. **Functional Testing**: Verifies core functionality such as user sign-up, login, and navigation.
-2. **GUI Testing**: Ensures the correct display of UI elements and components.
-3. **Boundary Testing**: Tests input fields for edge cases such as minimum and maximum values.
-4. **Cross-Browser Testing**: Ensures the application works across different browsers like Chrome and Safari.
-5. **Responsive Design Testing**: Confirms the application’s responsiveness across various devices (mobile, tablet, desktop).
+1. **Functional Testing**: Verifies core features such as user sign-up, login, and navigation between pages.
+2. **GUI Testing**: Verifies the correct display and layout of UI elements, such as images and buttons, ensuring they are visually appealing and functional.
+3. **Usability Testing**: Focuses on ensuring interactive elements (e.g., buttons) are easy to find and provide appropriate feedback when clicked.
+
 
 ### Test Execution
-Each test case includes clear steps to follow, with expected results and status indicators. Results are documented, and any issues found are tracked for resolution.
+Each test case is structured with clear, step-by-step instructions and expected outcomes. The results of each test are documented, with any failures tracked in a bug report for further investigation and resolution.
 
-### Bug Reporting
-If a test fails, a **bug report** will be created to document the issue. The report will include:
+
+
+
