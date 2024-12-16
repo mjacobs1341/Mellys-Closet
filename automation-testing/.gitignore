@@ -1,0 +1,10 @@
+code .gitignore
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules
+node_modules/
+
+# Ignore package-lock.json (optional but can help prevent merge conflicts)
+package-lock.json
