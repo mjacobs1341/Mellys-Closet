@@ -29,10 +29,10 @@ To ensure the functionality and usability of the site, **Quality Assurance Testi
 ### Automation Testing:
 - **The automation testing for Melly's Closet is handled in [Cypress](https://github.com/mjacobs1341/Mellys-Closet/tree/main/automation-testing/cypress/e2e). These test scripts automate tests to validate key functionality, such as**:
 
-- **Product selection**
-- **Sign-up/Login validation**
-- **Navigation links functionality**
-- **Verifying page elements and correct display**
+    - **Product selection**
+    - **Sign-up/Login validation**
+    - **Navigation links functionality**
+    - **Verifying page elements and correct display**
 
 ---
 
