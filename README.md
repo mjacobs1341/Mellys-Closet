@@ -24,16 +24,15 @@ To ensure the functionality and usability of the site, **Quality Assurance Testi
 
 ### Manual Testing:
 
-- The manual testing process, which includes the Test Plan, Test Cases and Bug Report can be found in the [Manual Testing](https://github.com/mjacobs1341/Mellys-Closet/tree/main/manual-testing)section for Melly's Closet.
+- The manual testing process, which includes the Test Plan, Test Cases and Bug Report can be found in the [Manual Testing](https://github.com/mjacobs1341/Mellys-Closet/tree/main/manual-testing) section of Melly's Closet.
 
 ### Automation Testing:
 - The automation testing for Melly's Closet is handled in [Cypress](https://github.com/mjacobs1341/Mellys-Closet/tree/main/automation-testing/cypress/e2e). These test scripts automate tests to validate key functionality, such as:
 
-- Product selection
-- Navigation links functionality
-- Verifying page elements and correct display
-
- You can find the detailed manual testing process (Test Plan, Test Cases and Bug Report) in [Manual Testing for Melly's Closet](https://github.com/mjacobs1341/Mellys-Closet/tree/main/manual-testing).
+- **Product selection**
+- **Sign-up/Login validation**
+- **Navigation links functionality**
+- **Verifying page elements and correct display**
 
 ---
 
